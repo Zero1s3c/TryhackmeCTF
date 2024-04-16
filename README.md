@@ -1,3 +1,3 @@
 # LIST OF WRITEUPS 
 
-/E 
+EASY/1. RootMe.md
